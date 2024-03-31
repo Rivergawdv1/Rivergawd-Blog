@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rivergawd-blog/static/css/main.761bdf08.css",
+    "main.js": "/rivergawd-blog/static/js/main.910e9f78.js",
+    "index.html": "/rivergawd-blog/index.html",
+    "main.761bdf08.css.map": "/rivergawd-blog/static/css/main.761bdf08.css.map",
+    "main.910e9f78.js.map": "/rivergawd-blog/static/js/main.910e9f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761bdf08.css",
+    "static/js/main.910e9f78.js"
+  ]
+}
