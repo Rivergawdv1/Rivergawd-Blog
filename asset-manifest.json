@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rivergawd-blog/static/css/main.7367fcac.css",
-    "main.js": "/rivergawd-blog/static/js/main.84153e47.js",
-    "index.html": "/rivergawd-blog/index.html",
-    "main.7367fcac.css.map": "/rivergawd-blog/static/css/main.7367fcac.css.map",
-    "main.84153e47.js.map": "/rivergawd-blog/static/js/main.84153e47.js.map"
+    "main.css": "./rivergawd-blog/static/css/main.7367fcac.css",
+    "main.js": "./rivergawd-blog/static/js/main.9abf112a.js",
+    "index.html": "./rivergawd-blog/index.html",
+    "main.7367fcac.css.map": "./rivergawd-blog/static/css/main.7367fcac.css.map",
+    "main.9abf112a.js.map": "./rivergawd-blog/static/js/main.9abf112a.js.map"
   },
   "entrypoints": [
     "static/css/main.7367fcac.css",
-    "static/js/main.84153e47.js"
+    "static/js/main.9abf112a.js"
   ]
 }
